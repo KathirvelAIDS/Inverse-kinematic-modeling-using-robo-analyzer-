@@ -37,8 +37,22 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
+```
+NAME:KATHIRVEL.A
+REG NO:212221230047
+```
 
 
+
+
+```
+1.open the roboanalyzer software.
+2.select the robot and its degrees of freedom.
+3.change the values of X and Y wherever necessary.
+4.simulate the model for inverse kinematics.
+5.plot the graph between the joints.
+6.update the DH parameters of the link configuration and end effector configuration.
+```
 
 
 
@@ -46,31 +60,47 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### SIMULATION 
  
+ RPR ROBOT:
+ 
+ ![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/7753bea6-e8c8-4972-bceb-865b61852822)
+
+ ![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/47bc3cdf-b88c-4681-b28b-c9d0b99a2796)
  
  
  
- 
+ 3R ROBOT:
+
+
+![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/196b4bd7-4866-4a41-a4ac-78a40cd494b6)
+
+
+![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/d8c59846-0da9-41cf-b47c-12d6d1a8e1fe)
+
  
  
  ### PLOT 
  
  
+ RPR ROBOT:
  
  
+ ![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/b1d775eb-3288-470e-a565-980e3425d150)
+
  
- 
- 
- 
- 
- 
- 
- 
+ ![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/0ad54a25-d223-436d-8595-427382a84b26)
 
  
  
+ 
+ 3R ROBOT:
+
+ 
+ 
+![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/7113da76-2bdd-44e8-bb26-101249b868c8)
 
 
 
+![image](https://github.com/KathirvelAIDS/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94911373/82dc8679-5faf-4b79-9a54-0ab60779865d)
 
 
 
@@ -83,3 +113,8 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### RESULTS :  
+
+
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
+
+
